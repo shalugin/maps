@@ -1,340 +1,15 @@
 {
   "type": "Topology",
   "objects": {
-    "subunits": {
+    "russia": {
       "type": "GeometryCollection",
       "geometries": [
         {
           "type": "MultiPolygon",
           "properties": {
-            "name": "Kamchatka"
+            "name": "Камчатский край"
           },
-          "id": 27,
-          "arcs": [
-            [
-              [
-                0
-              ]
-            ],
-            [
-              [
-                1,
-                2,
-                3,
-                4,
-                5,
-                6,
-                7,
-                8,
-                9,
-                10,
-                11,
-                12,
-                13,
-                14,
-                15,
-                16,
-                17,
-                18,
-                19,
-                20,
-                21,
-                22,
-                23,
-                24,
-                25,
-                26,
-                27,
-                28,
-                29,
-                30,
-                31,
-                32,
-                33,
-                34,
-                35,
-                36,
-                37,
-                38,
-                39,
-                40,
-                41,
-                42,
-                43,
-                44,
-                45,
-                46,
-                47,
-                48,
-                49,
-                50,
-                51,
-                52,
-                53,
-                54,
-                55,
-                56,
-                57,
-                58,
-                59,
-                60,
-                61,
-                62,
-                63,
-                64,
-                65,
-                66,
-                67,
-                68,
-                69,
-                70,
-                71,
-                72,
-                73,
-                74,
-                75,
-                76,
-                77,
-                78,
-                79,
-                80,
-                81,
-                82,
-                83,
-                84,
-                85,
-                86,
-                87,
-                88,
-                89,
-                90,
-                91,
-                92,
-                93,
-                94,
-                95,
-                96,
-                97,
-                98,
-                99,
-                100,
-                101,
-                102,
-                103,
-                104,
-                105,
-                106,
-                107,
-                108,
-                109,
-                110,
-                111,
-                112,
-                113,
-                114,
-                115,
-                116,
-                117,
-                118,
-                119,
-                120,
-                121,
-                122,
-                123,
-                124,
-                125,
-                126,
-                127,
-                128,
-                129,
-                130
-              ]
-            ]
-          ]
-        },
-        {
-          "type": "Polygon",
-          "properties": {
-            "name": "Karachay-Cherkess"
-          },
-          "id": 28,
-          "arcs": [
-            [
-              131,
-              132,
-              133,
-              134
-            ]
-          ]
-        },
-        {
-          "type": "MultiPolygon",
-          "properties": {
-            "name": "Karelia"
-          },
-          "id": 29,
-          "arcs": [
-            [
-              [
-                135,
-                136
-              ]
-            ],
-            [
-              [
-                137,
-                138,
-                139,
-                140,
-                141,
-                142,
-                143,
-                144
-              ]
-            ]
-          ]
-        },
-        {
-          "type": "Polygon",
-          "properties": {
-            "name": "Kemerovo"
-          },
-          "id": 30,
-          "arcs": [
-            [
-              145,
-              146,
-              147,
-              148,
-              149,
-              150
-            ]
-          ]
-        },
-        {
-          "type": "MultiPolygon",
-          "properties": {
-            "name": "Khabarovsk"
-          },
-          "id": 31,
-          "arcs": [
-            [
-              [
-                151
-              ]
-            ],
-            [
-              [
-                152,
-                153,
-                154,
-                155,
-                156,
-                157,
-                158
-              ]
-            ]
-          ]
-        },
-        {
-          "type": "MultiPolygon",
-          "properties": {
-            "name": "Khakass"
-          },
-          "id": 32,
-          "arcs": [
-            [
-              [
-                159
-              ]
-            ],
-            [
-              [
-                160,
-                161,
-                -146,
-                162
-              ]
-            ]
-          ]
-        },
-        {
-          "type": "Polygon",
-          "properties": {
-            "name": "Khanty-Mansiy"
-          },
-          "id": 33,
-          "arcs": [
-            [
-              163,
-              164,
-              165,
-              166,
-              167,
-              168
-            ]
-          ]
-        },
-        {
-          "type": "Polygon",
-          "properties": {
-            "name": "Kirov"
-          },
-          "id": 34,
-          "arcs": [
-            [
-              169,
-              170,
-              171,
-              172,
-              173,
-              174,
-              175,
-              176,
-              177,
-              178
-            ]
-          ]
-        },
-        {
-          "type": "Polygon",
-          "properties": {
-            "name": "Komi-Permyak"
-          },
-          "id": 35,
-          "arcs": [
-            [
-              179,
-              -171,
-              180
-            ]
-          ]
-        },
-        {
-          "type": "Polygon",
-          "properties": {
-            "name": "Komi"
-          },
-          "id": 36,
-          "arcs": [
-            [
-              181,
-              -168,
-              182,
-              183,
-              -181,
-              -170,
-              184,
-              185
-            ]
-          ]
-        },
-        {
-          "type": "MultiPolygon",
-          "properties": {
-            "name": "Koryak"
-          },
-          "id": 37,
+          "id": "RU-KAM",
           "arcs": [
             [
               [
@@ -764,15 +439,317 @@
                 259,
                 260
               ]
+            ],
+            [
+              [
+                0
+              ]
+            ],
+            [
+              [
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10,
+                11,
+                12,
+                13,
+                14,
+                15,
+                16,
+                17,
+                18,
+                19,
+                20,
+                21,
+                22,
+                23,
+                24,
+                25,
+                26,
+                27,
+                28,
+                29,
+                30,
+                31,
+                32,
+                33,
+                34,
+                35,
+                36,
+                37,
+                38,
+                39,
+                40,
+                41,
+                42,
+                43,
+                44,
+                45,
+                46,
+                47,
+                48,
+                49,
+                50,
+                51,
+                52,
+                53,
+                54,
+                55,
+                56,
+                57,
+                58,
+                59,
+                60,
+                61,
+                62,
+                63,
+                64,
+                65,
+                66,
+                67,
+                68,
+                69,
+                70,
+                71,
+                72,
+                73,
+                74,
+                75,
+                76,
+                77,
+                78,
+                79,
+                80,
+                81,
+                82,
+                83,
+                84,
+                85,
+                86,
+                87,
+                88,
+                89,
+                90,
+                91,
+                92,
+                93,
+                94,
+                95,
+                96,
+                97,
+                98,
+                99,
+                100,
+                101,
+                102,
+                103,
+                104,
+                105,
+                106,
+                107,
+                108,
+                109,
+                110,
+                111,
+                112,
+                113,
+                114,
+                115,
+                116,
+                117,
+                118,
+                119,
+                120,
+                121,
+                122,
+                123,
+                124,
+                125,
+                126,
+                127,
+                128,
+                129,
+                130
+              ]
             ]
           ]
         },
         {
           "type": "Polygon",
           "properties": {
-            "name": "Kostroma"
+            "name": "Карачаево-Черкесия"
           },
-          "id": 38,
+          "id": "RU-KC",
+          "arcs": [
+            [
+              131,
+              132,
+              133,
+              134
+            ]
+          ]
+        },
+        {
+          "type": "MultiPolygon",
+          "properties": {
+            "name": "Республика Карелия"
+          },
+          "id": "RU-KR",
+          "arcs": [
+            [
+              [
+                135,
+                136
+              ]
+            ],
+            [
+              [
+                137,
+                138,
+                139,
+                140,
+                141,
+                142,
+                143,
+                144
+              ]
+            ]
+          ]
+        },
+        {
+          "type": "Polygon",
+          "properties": {
+            "name": "Кемеровская область"
+          },
+          "id": "RU-KEM",
+          "arcs": [
+            [
+              145,
+              146,
+              147,
+              148,
+              149,
+              150
+            ]
+          ]
+        },
+        {
+          "type": "MultiPolygon",
+          "properties": {
+            "name": "Хабаровский край"
+          },
+          "id": "RU-KHA",
+          "arcs": [
+            [
+              [
+                151
+              ]
+            ],
+            [
+              [
+                152,
+                153,
+                154,
+                155,
+                156,
+                157,
+                158
+              ]
+            ]
+          ]
+        },
+        {
+          "type": "MultiPolygon",
+          "properties": {
+            "name": "Хакасия"
+          },
+          "id": "RU-KK",
+          "arcs": [
+            [
+              [
+                159
+              ]
+            ],
+            [
+              [
+                160,
+                161,
+                -146,
+                162
+              ]
+            ]
+          ]
+        },
+        {
+          "type": "Polygon",
+          "properties": {
+            "name": "Ханты-Мансийский автономный округ (Югра)"
+          },
+          "id": "RU-KHM",
+          "arcs": [
+            [
+              163,
+              164,
+              165,
+              166,
+              167,
+              168
+            ]
+          ]
+        },
+        {
+          "type": "Polygon",
+          "properties": {
+            "name": "Кировская область"
+          },
+          "id": "RU-KIR",
+          "arcs": [
+            [
+              169,
+              170,
+              171,
+              172,
+              173,
+              174,
+              175,
+              176,
+              177,
+              178
+            ]
+          ]
+        },
+        {
+          "type": "Polygon",
+          "properties": {
+            "name": "Республика Коми"
+          },
+          "id": "RU-KO",
+          "arcs": [
+            [
+              181,
+              -168,
+              182,
+              183,
+              -181,
+              -170,
+              184,
+              185
+            ]
+          ]
+        },
+        {
+          "type": "Polygon",
+          "properties": {
+            "name": "Костромская область"
+          },
+          "id": "RU-KOS",
           "arcs": [
             [
               -177,
@@ -786,9 +763,9 @@
         {
           "type": "MultiPolygon",
           "properties": {
-            "name": "Krasnodar"
+            "name": "Краснодарский край"
           },
-          "id": 39,
+          "id": "RU-KDA",
           "arcs": [
             [
               [
@@ -804,13 +781,21 @@
           ]
         },
         {
-          "type": "Polygon",
+          "type": "MultiPolygon",
           "properties": {
-            "name": "Krasnoyarsk"
+            "name": "Красноярский край"
           },
-          "id": 40,
+          "id": "RU-KYA",
           "arcs": [
             [
+              [
+                348,
+                349,
+                -270,
+                350
+              ]
+            ],
+            [[
               269,
               270,
               271,
@@ -820,18 +805,59 @@
               -164,
               273,
               274
+            ]],
+            [[
+              -160
+            ]],
+            [
+              [
+                537
+              ]
             ],
             [
-              -160
+              [
+                538
+              ]
+            ],
+            [
+              [
+                539,
+                -515,
+                -351,
+                -275,
+                540,
+                541,
+                542
+              ]
+            ],
+            [
+              [
+                543
+              ]
+            ],
+            [
+              [
+                544
+              ]
+            ],
+            [
+              [
+                545
+              ]
+            ],
+            [
+              [
+                546
+              ]
             ]
           ]
         },
         {
           "type": "Polygon",
           "properties": {
-            "name": "Adygey"
+            "name": "Республика Адыгея"
           },
-          "id": 1,
+          "id": "RU-AD",
           "arcs": [
             [
               -269
@@ -841,21 +867,9 @@
         {
           "type": "Polygon",
           "properties": {
-            "name": "Aga Buryat"
+            "name": "Республика Алтай"
           },
-          "id": 2,
-          "arcs": [
-            [
-              275
-            ]
-          ]
-        },
-        {
-          "type": "Polygon",
-          "properties": {
-            "name": "Altay"
-          },
-          "id": 3,
+          "id": "RU-AL",
           "arcs": [
             [
               276,
@@ -868,9 +882,9 @@
         {
           "type": "Polygon",
           "properties": {
-            "name": "Amur"
+            "name": "Амурская область"
           },
-          "id": 4,
+          "id": "RU-AMU",
           "arcs": [
             [
               -158,
@@ -884,9 +898,9 @@
         {
           "type": "MultiPolygon",
           "properties": {
-            "name": "Arkhangel'sk"
+            "name": "Архангельская область"
           },
-          "id": 5,
+          "id": "RU-ARK",
           "arcs": [
             [
               [
@@ -944,9 +958,9 @@
         {
           "type": "Polygon",
           "properties": {
-            "name": "Astrakhan'"
+            "name": "Астраханская область"
           },
-          "id": 6,
+          "id": "RU-AST",
           "arcs": [
             [
               295,
@@ -958,9 +972,9 @@
         {
           "type": "Polygon",
           "properties": {
-            "name": "Bashkortostan"
+            "name": "Башкортостан"
           },
-          "id": 7,
+          "id": "RU-BA",
           "arcs": [
             [
               298,
@@ -975,9 +989,9 @@
         {
           "type": "Polygon",
           "properties": {
-            "name": "Belgorod"
+            "name": "Белгородская область"
           },
-          "id": 8,
+          "id": "RU-BEL",
           "arcs": [
             [
               304,
@@ -989,9 +1003,9 @@
         {
           "type": "Polygon",
           "properties": {
-            "name": "Bryansk"
+            "name": "Брянская область"
           },
-          "id": 9,
+          "id": "RU-BRY",
           "arcs": [
             [
               307,
@@ -1005,9 +1019,9 @@
         {
           "type": "Polygon",
           "properties": {
-            "name": "Buryat"
+            "name": "Республика Бурятия"
           },
-          "id": 10,
+          "id": "RU-BU",
           "arcs": [
             [
               312,
@@ -1022,9 +1036,9 @@
         {
           "type": "Polygon",
           "properties": {
-            "name": "Chechnya"
+            "name": "Чеченская Республика"
           },
-          "id": 11,
+          "id": "RU-CE",
           "arcs": [
             [
               318,
@@ -1038,9 +1052,9 @@
         {
           "type": "Polygon",
           "properties": {
-            "name": "Chelyabinsk"
+            "name": "Челябинская область"
           },
-          "id": 12,
+          "id": "RU-CHE",
           "arcs": [
             [
               323,
@@ -1054,10 +1068,14 @@
         {
           "type": "MultiPolygon",
           "properties": {
-            "name": "Chita"
+            "name": "Забайкальский край"
           },
-          "id": 13,
-          "arcs": [
+          "id": "RU-ZAB",
+          "arcs": [[
+            [
+              275
+            ]
+          ],
             [
               [
                 -315,
@@ -1081,9 +1099,9 @@
         {
           "type": "MultiPolygon",
           "properties": {
-            "name": "Chukot"
+            "name": "Чукотский автономный округ"
           },
-          "id": 14,
+          "id": "RU-CHU",
           "arcs": [
             [
               [
@@ -1118,9 +1136,9 @@
         {
           "type": "Polygon",
           "properties": {
-            "name": "Chuvash"
+            "name": "Чувашская Республика"
           },
-          "id": 15,
+          "id": "RU-CU",
           "arcs": [
             [
               338,
@@ -1132,26 +1150,11 @@
           ]
         },
         {
-          "type": "MultiPolygon",
-          "properties": {
-            "name": "City of St. Petersburg"
-          },
-          "id": 16,
-          "arcs": [
-            [
-              [
-                343,
-                344
-              ]
-            ]
-          ]
-        },
-        {
           "type": "Polygon",
           "properties": {
-            "name": "Dagestan"
+            "name": "Республика Дагестан"
           },
-          "id": 17,
+          "id": "RU-DA",
           "arcs": [
             [
               345,
@@ -1164,24 +1167,9 @@
         {
           "type": "Polygon",
           "properties": {
-            "name": "Evenk"
+            "name": "Республика Алтай"
           },
-          "id": 18,
-          "arcs": [
-            [
-              348,
-              349,
-              -270,
-              350
-            ]
-          ]
-        },
-        {
-          "type": "Polygon",
-          "properties": {
-            "name": "Gorno-Altay"
-          },
-          "id": 19,
+          "id": "RU-AL",
           "arcs": [
             [
               -147,
@@ -1195,9 +1183,9 @@
         {
           "type": "Polygon",
           "properties": {
-            "name": "Ingush"
+            "name": "Республика Ингушетия"
           },
-          "id": 20,
+          "id": "RU-IN",
           "arcs": [
             [
               -320,
@@ -1209,9 +1197,9 @@
         {
           "type": "Polygon",
           "properties": {
-            "name": "Irkutsk"
+            "name": "Иркутская область"
           },
-          "id": 21,
+          "id": "RU-IRK",
           "arcs": [
             [
               -331,
@@ -1223,15 +1211,18 @@
             ],
             [
               357
+            ],
+            [
+              -358
             ]
           ]
         },
         {
           "type": "Polygon",
           "properties": {
-            "name": "Ivanovo"
+            "name": "Ивановская область"
           },
-          "id": 22,
+          "id": "RU-IVA",
           "arcs": [
             [
               358,
@@ -1244,9 +1235,9 @@
         {
           "type": "Polygon",
           "properties": {
-            "name": "Kabardin-Balkar"
+            "name": "Кабардино-Балкарская Республика"
           },
-          "id": 23,
+          "id": "RU-KB",
           "arcs": [
             [
               361,
@@ -1259,9 +1250,9 @@
         {
           "type": "MultiPolygon",
           "properties": {
-            "name": "Kaliningrad"
+            "name": "Калининградская область"
           },
-          "id": 24,
+          "id": "RU-KGD",
           "arcs": [
             [
               [
@@ -1273,9 +1264,9 @@
         {
           "type": "Polygon",
           "properties": {
-            "name": "Kalmyk"
+            "name": "Республика Калмыкия"
           },
-          "id": 25,
+          "id": "RU-KL",
           "arcs": [
             [
               -296,
@@ -1290,9 +1281,9 @@
         {
           "type": "Polygon",
           "properties": {
-            "name": "Kaluga"
+            "name": "Калужская область"
           },
-          "id": 26,
+          "id": "RU-KLU",
           "arcs": [
             [
               369,
@@ -1306,9 +1297,9 @@
         {
           "type": "Polygon",
           "properties": {
-            "name": "Kurgan"
+            "name": "Курганская область"
           },
-          "id": 41,
+          "id": "RU-KGN",
           "arcs": [
             [
               373,
@@ -1321,9 +1312,9 @@
         {
           "type": "Polygon",
           "properties": {
-            "name": "Kursk"
+            "name": "Курская область"
           },
-          "id": 42,
+          "id": "RU-KRS",
           "arcs": [
             [
               376,
@@ -1338,10 +1329,16 @@
         {
           "type": "MultiPolygon",
           "properties": {
-            "name": "Leningrad"
+            "name": "Ленинградская область"
           },
-          "id": 43,
+          "id": "RU-LEN",
           "arcs": [
+            [
+              [
+                343,
+                344
+              ]
+            ],
             [
               [
                 380,
@@ -1437,9 +1434,9 @@
         {
           "type": "Polygon",
           "properties": {
-            "name": "Lipetsk"
+            "name": "Липецкая область"
           },
-          "id": 44,
+          "id": "RU-LIP",
           "arcs": [
             [
               439,
@@ -1454,9 +1451,9 @@
         {
           "type": "MultiPolygon",
           "properties": {
-            "name": "Maga Buryatdan"
+            "name": "Магаданская область"
           },
-          "id": 45,
+          "id": "RU-MAG",
           "arcs": [
             [
               [
@@ -1472,9 +1469,9 @@
         {
           "type": "Polygon",
           "properties": {
-            "name": "Mariy-El"
+            "name": "Республика Марий Эл"
           },
-          "id": 46,
+          "id": "RU-ME",
           "arcs": [
             [
               446,
@@ -1487,9 +1484,9 @@
         {
           "type": "Polygon",
           "properties": {
-            "name": "Mordovia"
+            "name": "Республика Мордовия"
           },
-          "id": 47,
+          "id": "RU-MO",
           "arcs": [
             [
               -341,
@@ -1503,9 +1500,9 @@
         {
           "type": "MultiPolygon",
           "properties": {
-            "name": "Moscow City"
+            "name": "Московская область"
           },
-          "id": 48,
+          "id": "RU-MOS",
           "arcs": [
             [
               [
@@ -1536,16 +1533,8 @@
               [
                 457
               ]
-            ]
-          ]
-        },
-        {
-          "type": "Polygon",
-          "properties": {
-            "name": "Moskva"
-          },
-          "id": 49,
-          "arcs": [
+            ],
+            [
             [
               458,
               459,
@@ -1577,14 +1566,14 @@
             [
               -453
             ]
-          ]
+          ]]
         },
         {
           "type": "MultiPolygon",
           "properties": {
-            "name": "Murmansk"
+            "name": "Мурманская область"
           },
-          "id": 50,
+          "id": "RU-MUR",
           "arcs": [
             [
               [
@@ -1599,9 +1588,9 @@
         {
           "type": "MultiPolygon",
           "properties": {
-            "name": "Nenets"
+            "name": "Ненецкий автономный округ"
           },
-          "id": 51,
+          "id": "RU-NEN",
           "arcs": [
             [
               [
@@ -1628,9 +1617,9 @@
         {
           "type": "Polygon",
           "properties": {
-            "name": "Nizhegorod"
+            "name": "Нижегородская область"
           },
-          "id": 52,
+          "id": "RU-NIZ",
           "arcs": [
             [
               -176,
@@ -1647,9 +1636,9 @@
         {
           "type": "Polygon",
           "properties": {
-            "name": "North Ossetia"
+            "name": "Республика Северная Осетия — Алания"
           },
-          "id": 53,
+          "id": "RU-SE",
           "arcs": [
             [
               -321,
@@ -1663,9 +1652,9 @@
         {
           "type": "Polygon",
           "properties": {
-            "name": "Novgorod"
+            "name": "Новгородская область"
           },
-          "id": 54,
+          "id": "RU-NGR",
           "arcs": [
             [
               480,
@@ -1678,9 +1667,9 @@
         {
           "type": "Polygon",
           "properties": {
-            "name": "Novosibirsk"
+            "name": "Новосибирская область"
           },
-          "id": 55,
+          "id": "RU-NVS",
           "arcs": [
             [
               -149,
@@ -1694,9 +1683,9 @@
         {
           "type": "Polygon",
           "properties": {
-            "name": "Omsk"
+            "name": "Омская область"
           },
-          "id": 56,
+          "id": "RU-OMS",
           "arcs": [
             [
               -485,
@@ -1709,9 +1698,9 @@
         {
           "type": "Polygon",
           "properties": {
-            "name": "Orel"
+            "name": "Орловская область"
           },
-          "id": 57,
+          "id": "RU-ORL",
           "arcs": [
             [
               -442,
@@ -1725,9 +1714,9 @@
         {
           "type": "Polygon",
           "properties": {
-            "name": "Orenburg"
+            "name": "Оренбургская область"
           },
-          "id": 58,
+          "id": "RU-ORE",
           "arcs": [
             [
               -301,
@@ -1742,9 +1731,9 @@
         {
           "type": "Polygon",
           "properties": {
-            "name": "Penza"
+            "name": "Пензенская область"
           },
-          "id": 59,
+          "id": "RU-PNZ",
           "arcs": [
             [
               494,
@@ -1758,9 +1747,9 @@
         {
           "type": "Polygon",
           "properties": {
-            "name": "Perm'"
+            "name": "Пермский край'"
           },
-          "id": 60,
+          "id": "RU-PER",
           "arcs": [
             [
               -304,
@@ -1769,15 +1758,20 @@
               -180,
               -184,
               499
+            ],
+            [
+              179,
+              -171,
+              180
             ]
           ]
         },
         {
           "type": "MultiPolygon",
           "properties": {
-            "name": "Primor'ye"
+            "name": "Приморский край"
           },
-          "id": 61,
+          "id": "RU-PRI",
           "arcs": [
             [
               [
@@ -1790,9 +1784,9 @@
         {
           "type": "Polygon",
           "properties": {
-            "name": "Pskov"
+            "name": "Псковская область"
           },
-          "id": 62,
+          "id": "RU-PSK",
           "arcs": [
             [
               -483,
@@ -1806,9 +1800,9 @@
         {
           "type": "MultiPolygon",
           "properties": {
-            "name": "Rostov"
+            "name": "Ростовская область"
           },
-          "id": 63,
+          "id": "RU-ROS",
           "arcs": [
             [
               [
@@ -1825,9 +1819,9 @@
         {
           "type": "MultiPolygon",
           "properties": {
-            "name": "Ryazan'"
+            "name": "Рязанская область"
           },
-          "id": 64,
+          "id": "RU-RYA",
           "arcs": [
             [
               [
@@ -1858,9 +1852,9 @@
         {
           "type": "MultiPolygon",
           "properties": {
-            "name": "Sakha"
+            "name": "Республика Саха (Якутия)"
           },
-          "id": 65,
+          "id": "RU-SA",
           "arcs": [
             [
               [
@@ -1895,9 +1889,9 @@
         {
           "type": "MultiPolygon",
           "properties": {
-            "name": "Sakhalin"
+            "name": "Сахалинская область"
           },
-          "id": 66,
+          "id": "RU-SAK",
           "arcs": [
             [
               [
@@ -1929,9 +1923,9 @@
         {
           "type": "Polygon",
           "properties": {
-            "name": "Samara"
+            "name": "Самарская область"
           },
-          "id": 67,
+          "id": "RU-SAM",
           "arcs": [
             [
               -493,
@@ -1944,9 +1938,9 @@
         {
           "type": "Polygon",
           "properties": {
-            "name": "Saratov"
+            "name": "Саратовская область"
           },
-          "id": 68,
+          "id": "RU-SAR",
           "arcs": [
             [
               -492,
@@ -1963,9 +1957,9 @@
         {
           "type": "Polygon",
           "properties": {
-            "name": "Smolensk"
+            "name": "Смоленская область"
           },
-          "id": 69,
+          "id": "RU-SMO",
           "arcs": [
             [
               -467,
@@ -1980,9 +1974,9 @@
         {
           "type": "Polygon",
           "properties": {
-            "name": "Stavropol'"
+            "name": "Ставропольский край"
           },
-          "id": 70,
+          "id": "RU-STA",
           "arcs": [
             [
               -347,
@@ -1999,9 +1993,9 @@
         {
           "type": "Polygon",
           "properties": {
-            "name": "Sverdlovsk"
+            "name": "Свердловская область"
           },
-          "id": 71,
+          "id": "RU-SVE",
           "arcs": [
             [
               533,
@@ -2017,9 +2011,9 @@
         {
           "type": "Polygon",
           "properties": {
-            "name": "Tambov"
+            "name": "Тамбовская область"
           },
-          "id": 72,
+          "id": "RU-TAM",
           "arcs": [
             [
               -497,
@@ -2033,9 +2027,9 @@
         {
           "type": "Polygon",
           "properties": {
-            "name": "Tatarstan"
+            "name": "Республика Татарстан"
           },
-          "id": 73,
+          "id": "RU-TA",
           "arcs": [
             [
               535,
@@ -2050,61 +2044,11 @@
           ]
         },
         {
-          "type": "MultiPolygon",
-          "properties": {
-            "name": "Taymyr"
-          },
-          "id": 74,
-          "arcs": [
-            [
-              [
-                537
-              ]
-            ],
-            [
-              [
-                538
-              ]
-            ],
-            [
-              [
-                539,
-                -515,
-                -351,
-                -275,
-                540,
-                541,
-                542
-              ]
-            ],
-            [
-              [
-                543
-              ]
-            ],
-            [
-              [
-                544
-              ]
-            ],
-            [
-              [
-                545
-              ]
-            ],
-            [
-              [
-                546
-              ]
-            ]
-          ]
-        },
-        {
           "type": "Polygon",
           "properties": {
-            "name": "Tomsk"
+            "name": "Томская область"
           },
-          "id": 75,
+          "id": "RU-TOM",
           "arcs": [
             [
               -273,
@@ -2119,9 +2063,9 @@
         {
           "type": "Polygon",
           "properties": {
-            "name": "Tula"
+            "name": "Тульская область"
           },
-          "id": 76,
+          "id": "RU-TUL",
           "arcs": [
             [
               -510,
@@ -2139,9 +2083,9 @@
         {
           "type": "Polygon",
           "properties": {
-            "name": "Tuva"
+            "name": "Республика Тыва"
           },
-          "id": 77,
+          "id": "RU-TY",
           "arcs": [
             [
               -317,
@@ -2156,9 +2100,9 @@
         {
           "type": "Polygon",
           "properties": {
-            "name": "Tver'"
+            "name": "Тверская область"
           },
-          "id": 78,
+          "id": "RU-TVE",
           "arcs": [
             [
               549,
@@ -2173,9 +2117,9 @@
         {
           "type": "Polygon",
           "properties": {
-            "name": "Tyumen'"
+            "name": "Тюменская область"
           },
-          "id": 79,
+          "id": "RU-TYU",
           "arcs": [
             [
               -548,
@@ -2190,9 +2134,9 @@
         {
           "type": "Polygon",
           "properties": {
-            "name": "Udmurt"
+            "name": "Удмуртская Республика"
           },
-          "id": 80,
+          "id": "RU-UD",
           "arcs": [
             [
               -499,
@@ -2205,9 +2149,9 @@
         {
           "type": "Polygon",
           "properties": {
-            "name": "Ul'yanovsk"
+            "name": "Ульяновская область"
           },
-          "id": 81,
+          "id": "RU-ULY",
           "arcs": [
             [
               -525,
@@ -2222,21 +2166,9 @@
         {
           "type": "Polygon",
           "properties": {
-            "name": "Ust-Orda Buryat"
+            "name": "Владимирская область"
           },
-          "id": 82,
-          "arcs": [
-            [
-              -358
-            ]
-          ]
-        },
-        {
-          "type": "Polygon",
-          "properties": {
-            "name": "Vladimir"
-          },
-          "id": 83,
+          "id": "RU-VLA",
           "arcs": [
             [
               -478,
@@ -2250,9 +2182,9 @@
         {
           "type": "Polygon",
           "properties": {
-            "name": "Volgograd"
+            "name": "Волгоградская область"
           },
-          "id": 84,
+          "id": "RU-VGG",
           "arcs": [
             [
               553,
@@ -2267,9 +2199,9 @@
         {
           "type": "Polygon",
           "properties": {
-            "name": "Vologda"
+            "name": "Вологодская область"
           },
-          "id": 85,
+          "id": "RU-VLG",
           "arcs": [
             [
               -286,
@@ -2286,9 +2218,9 @@
         {
           "type": "Polygon",
           "properties": {
-            "name": "Voronezh"
+            "name": "Воронежская область"
           },
-          "id": 86,
+          "id": "RU-VOR",
           "arcs": [
             [
               -535,
@@ -2305,9 +2237,9 @@
         {
           "type": "MultiPolygon",
           "properties": {
-            "name": "Yamal-Nenets"
+            "name": "Ямало-Ненецкий автономный округ"
           },
-          "id": 87,
+          "id": "RU-YAN",
           "arcs": [
             [
               [
@@ -2340,9 +2272,9 @@
         {
           "type": "Polygon",
           "properties": {
-            "name": "Yaroslavl'"
+            "name": "Ярославская область"
           },
-          "id": 88,
+          "id": "RU-YAR",
           "arcs": [
             [
               -264,
@@ -2357,9 +2289,9 @@
         {
           "type": "Polygon",
           "properties": {
-            "name": "Yevrey"
+            "name": "Еврейская автономная область"
           },
-          "id": 89,
+          "id": "RU-YEV",
           "arcs": [
             [
               562,
@@ -2371,10 +2303,16 @@
         {
           "type": "MultiPolygon",
           "properties": {
-            "name": "Crimea"
+            "name": "Республика Крым"
           },
           "id": 4,
           "arcs": [
+            [
+              [
+                567,
+                -565
+              ]
+            ],
             [
               [
                 563,
@@ -2382,19 +2320,6 @@
                 565,
                 566
               ]
-            ]
-          ]
-        },
-        {
-          "type": "Polygon",
-          "properties": {
-            "name": "Sevastopol'"
-          },
-          "id": 20,
-          "arcs": [
-            [
-              567,
-              -565
             ]
           ]
         }
